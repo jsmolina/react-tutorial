@@ -1,8 +1,11 @@
 # Logs
+.DS_Store
 logs
+.idea
 *.log
 npm-debug.log*
-
+lib/
+public/
 # Runtime data
 pids
 *.pid
